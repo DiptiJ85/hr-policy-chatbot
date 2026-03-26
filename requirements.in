@@ -1,0 +1,10 @@
+# requirements.in
+langchain
+langchain-google-genai
+langchain-community
+langchain-text-splitters
+langchain-core
+chromadb
+gradio
+python-dotenv
+pypdf

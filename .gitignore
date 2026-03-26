@@ -1,0 +1,21 @@
+# .gitignore
+
+# API keys - NEVER commit this
+env/
+
+# ChromaDB - large files, no need to push
+chroma_db/
+
+# Python virtual environment
+venv/
+__pycache__/
+*.pyc
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Dataset (optional - if large)
+# Dataset/
+
+.gradio/
+flagged/
